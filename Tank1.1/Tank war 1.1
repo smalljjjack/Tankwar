@@ -1,0 +1,4 @@
+In tank war 1.1, I implemented wall function. A wall is an area both player and enemy can not penetrate.
+In order to achieve the wall function, I had to rewrite the movement method for both player and enemy. 
+Espcially for the enemy, the movement method was hard to write cause its direction was easy to stun to the wall. So i create a very variable
+called oldDirection, when the enemy hits the wall, its direction will turn to the oldone and change its position as well.
