@@ -1,0 +1,2 @@
+In this version, I added alive and blood veraible to tank. So and the game will depends on these variable. When our tank be hitted by enemy
+or enemy's bullets, tank will be hurted, and after serval times hitted, the game will be over.
