@@ -1,0 +1,15 @@
+Class: 
+  YardClient - the interface of the game created by Java frame and use the action listener to control.
+    Method launch()
+           paint() 
+           checkEnemy() check whether a enemy is alive or not
+           create enemy() automatically create enemy 
+           create egg() automatically create egg
+           monitor() control the game 
+           update(Graphics G) paint the interface more fluntly
+  
+ Dir(enum) - direction
+ Tank - player
+   Method draw() draw tank
+   move() move algothrim
+ 
